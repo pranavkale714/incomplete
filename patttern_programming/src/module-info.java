@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module patttern_programming {
-}
